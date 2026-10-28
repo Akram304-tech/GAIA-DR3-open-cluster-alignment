@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-10-28",
+  "file_count_excluding_manifest_self_checks": 215,
+  "python_file_count": 43,
+  "matlab_file_count": 8,
+  "vector_pdf_count": 7,
+  "csv_table_count": 28,
+  "source_archive_count": 36,
+  "manuscript_excluded": true,
+  "authors": [
+    "Akram Ruziev",
+    "Jakhongir Ganiev",
+    "Sobir Turaev"
+  ],
+  "verification": "PASS",
+  "note": "Outer ZIP SHA-256 is reported outside the archive because embedding it would make the hash self-referential."
+}

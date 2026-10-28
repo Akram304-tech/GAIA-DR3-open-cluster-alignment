@@ -1,0 +1,16 @@
+name: open-cluster-alignment-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - astropy
+  - astroquery
+  - matplotlib
+  - statsmodels
+  - requests
+  - pip
+  - pip:
+      - galpy==1.12.0

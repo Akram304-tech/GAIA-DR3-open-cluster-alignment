@@ -1,0 +1,9 @@
+numpy>=2.0
+pandas>=2.0
+scipy>=1.14
+astropy>=7.0
+astroquery>=0.4.11
+matplotlib>=3.8
+statsmodels>=0.14
+requests>=2.31
+galpy==1.12.0
